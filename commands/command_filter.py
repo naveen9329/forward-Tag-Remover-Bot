@@ -3,15 +3,12 @@ import os
 
 source="https://github.com/Artis7eeR/forward-Tag-Remover-Bot"
 START_TEXT="Hi [{}](tg://user?id={})\nI am A Forward Tag remover Bot.Send /help To Know What I Can Do"
-HELP_TEXT="Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
+HELP_TEXT="Forward A File,Video,Image,Post,etc I will Remove The File Source And Send Back You File if Any Bugs Found Report \n\n@missioncrackjeeneet"
 
 #Inline Keyboard Button
 keyboard = [
 [
- InlineKeyboardButton("My Father", url="https://t.me/tausifur_123")
-],
-[
- InlineKeyboardButton("How To Create A Bot Like Me",url="https://youtu.be/swg6un2N4Fk")
+ InlineKeyboardButton("My Father 🎅", url="https://t.me/tausifur_123")
 ]
 ]
 reply_markup = InlineKeyboardMarkup(keyboard)
