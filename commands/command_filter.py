@@ -3,9 +3,8 @@ import os
 
 source="https://github.com/Artis7eeR/forward-Tag-Remover-Bot"
 START_TEXT="Hi [{}](tg://user?id={})\nI am A Forward Tag remover Bot.Send /help To Know What I Can Do"
-HELP_TEXT="Forward A File,Video,Image,Post,etc I will Remove The File Source And Send Back You File if Any Bugs Found Report
+HELP_TEXT="Forward A File,Video,Image,Post,etc I will Remove The File Source And Send Back You File if Any Bugs Found Report\n\n@missioncrackjeeneet"
 
-@missioncrackjeeneet"
 
 #Inline Keyboard Button
 keyboard = [
