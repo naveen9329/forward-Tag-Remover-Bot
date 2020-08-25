@@ -20,4 +20,4 @@ parse_mode=ParseMode.MARKDOWN)
 
 #Help Message
 def help_text(u,c):
-  u.message.reply_text(HELP_TEXT,reply_markup=reply_markup,parse_mode=ParseMode.MARKDOWN)
+  u.message.reply_text(HELP_TEXT,parse_mode=ParseMode.MARKDOWN)
